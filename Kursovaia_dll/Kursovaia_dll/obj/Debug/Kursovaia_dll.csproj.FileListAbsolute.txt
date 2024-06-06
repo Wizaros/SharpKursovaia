@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\Kursovaia_dll\Kursovaia_dll\bin\Debug\Kursovaia_dll.dll
+C:\Users\Дмитрий\source\repos\Kursovaia_dll\Kursovaia_dll\bin\Debug\Kursovaia_dll.pdb
+C:\Users\Дмитрий\source\repos\Kursovaia_dll\Kursovaia_dll\obj\Debug\Kursovaia_dll.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Kursovaia_dll\Kursovaia_dll\obj\Debug\Kursovaia_dll.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Kursovaia_dll\Kursovaia_dll\obj\Debug\Kursovaia_dll.dll
+C:\Users\Дмитрий\source\repos\Kursovaia_dll\Kursovaia_dll\obj\Debug\Kursovaia_dll.pdb
+C:\Users\Дмитрий\source\repos\Kursovaia_dll\Kursovaia_dll\obj\Debug\Kursovaia_dll.csproj.ResolveComReference.cache
