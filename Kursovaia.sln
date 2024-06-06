@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kursovaia", "Kursovaia\Kursovaia.csproj", "{65190987-BFCA-4996-804B-2EB11CB61428}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MTUCI", "MTUCI\MTUCI.vdproj", "{FC2C3FA0-BF5D-4500-8D4B-0DE0193B1AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65190987-BFCA-4996-804B-2EB11CB61428}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{65190987-BFCA-4996-804B-2EB11CB61428}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{65190987-BFCA-4996-804B-2EB11CB61428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65190987-BFCA-4996-804B-2EB11CB61428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2C3FA0-BF5D-4500-8D4B-0DE0193B1AF5}.Debug|Any CPU.ActiveCfg = Release
+		{FC2C3FA0-BF5D-4500-8D4B-0DE0193B1AF5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02846917-AE03-4378-9423-3FA46C983BEC}
+	EndGlobalSection
+EndGlobal
